@@ -1,0 +1,64 @@
+{
+  "core": {
+    "cert_arn": "",
+    "cert_id": "",
+    "thing_arn": "",
+    "thing_name": ""
+  },
+  "core_def": {
+    "id": "",
+    "version_arn": ""
+  },
+  "device_def": {
+    "id": "",
+    "version_arn": ""
+  },
+  "devices": {
+    "device_thing_name": {
+      "cert_arn": "",
+      "cert_id": "",
+      "thing_arn": "",
+      "thing_name": ""
+    }
+  },
+  "func_def": {
+    "id": "",
+    "version_arn": ""
+  },
+  "group": {
+    "id": "",
+    "name": "",
+    "version": "",
+    "version_arn": ""
+  },
+  "lambda_functions": {
+    "MasterBrain": {
+      "arn": "",
+      "arn_qualifier": ""
+    },
+    "MasterErrorDetector": {
+      "arn": "",
+      "arn_qualifier": ""
+    }
+  },
+  "logger_def": {
+    "id": "",
+    "version_arn": ""
+  },
+  "misc": {
+    "account_id": "",
+    "iot_endpoint": "",
+    "master_shadow_name": "master_brain",
+    "policy_name": "ggc-default-policy"
+  },
+  "subscription_def": {
+    "id": "",
+    "version_arn": ""
+  },
+  "subscriptions": {
+    "all": "convey/#",
+    "errors": "convey/errors",
+    "stages": "convey/stages",
+    "telemetry": "convey/telemetry"
+  }
+}

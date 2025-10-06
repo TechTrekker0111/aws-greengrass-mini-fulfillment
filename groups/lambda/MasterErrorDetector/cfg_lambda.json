@@ -1,0 +1,12 @@
+{
+  "func_desc": "mini-fulfillment function for overall error detection",
+  "func_name": "MasterErrorDetector",
+  "lambda_alias": "mini",
+  "lambda_arn": "",
+  "lambda_dir": "lambda/MasterErrorDetector",
+  "lambda_files": [
+    "error_detector.py"
+  ],
+  "lambda_handler": "handler",
+  "lambda_main": "error_detector"
+}

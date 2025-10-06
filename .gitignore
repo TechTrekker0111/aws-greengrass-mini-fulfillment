@@ -1,0 +1,80 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.pyc
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+CHANGELOG
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Extraneous Dirs and Files#
+######################
+venv
+venv2
+venv3
+uploads
+upload
+bower_components
+dynamixel_functions.py
+DynamixelSDK-*/
+
+# BDist Artifacts #
+###################
+build
+
+# IDE and Editor artifacts #
+*.bbprojectd
+.idea
+.serverless
+
+# Other undesireables #
+*.pem
+*.prv
+*.pub
+*.crt
+*.key
+*.secret
+*.old
+
+# Temporary Files #
+###################
+tmp_*
+cfg.tmp.json
+
+# sub-repo include #
+####################
+!/groups/sort_arm/ggd/servode/setup.cfg
+!/groups/inv_arm/ggd/servode/setup.cfg
+!/groups/master/ggd/servode/setup.cfg
