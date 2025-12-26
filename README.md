@@ -13,7 +13,7 @@ now supports Greengrass [discovery](http://docs.aws.amazon.com/greengrass/latest
 capabilities. 
 
 The artifacts, example code, and instructions to construct this demo are 
-available in this repository as an example. We look forward to seeing what 
+available in this repository as an example. We look forward to seeing what
 you'll do with it.
 
 #### Directory Structure and Noteworthy Files
