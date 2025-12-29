@@ -1,4 +1,4 @@
-## The Greengrass mini-fulfillment center example 
+ ## The Greengrass mini-fulfillment center example 
 
 At re:Invent 2016 AWS Greengrass was introduced to the world. This miniature 
 fulfillment center demonstration was used to display what could be done with 
